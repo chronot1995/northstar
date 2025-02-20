@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2025-02-20
-img: turtle.gif
+img: neural-net.png
 alt: image-alt
 project-date: January 2020
 client: Higher Education
