@@ -1,8 +1,8 @@
 ---
 layout: default
-modal-id: 6
-date: 2025-02-20
-img: wifi-global.png
+modal-id: 3
+date: 2025-02-18
+img: neural-net.png
 alt: image-alt
 project-date: January 2020
 client: Higher Education
