@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2025-02-20
+img: turtle.gif
+alt: image-alt
+project-date: January 2020
+client: Higher Education
+category: Network Automation
+description: AI and HPC deployment for Big 10 University
+---

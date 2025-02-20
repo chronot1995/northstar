@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 2
+date: 2025-02-20
+img: time-management.png
+alt: image-alt
+project-date: January 2020
+client: Higher Education
+category: Project Management
+description: Complete network migration and project planning
+---
