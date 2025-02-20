@@ -9,16 +9,17 @@
     </div>
     <div class="row">
       <div class="col-lg-4 col-lg-offset-2">
-        <p>NorthStar Networks has over 20 years of network design, architecture, and project management experience.</p>
+        <p>Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete
+          source files including HTML, CSS, and JavaScript as well as optional LESS stylesheets for easy
+          customization.</p>
       </div>
       <div class="col-lg-4">
-        <p>Reach out to the team to discuss how we can help solve your networking challenges.</p>
+        <p>Whether you're a student looking to showcase your work, a professional looking to attract clients, or
+          a graphic artist looking to share your projects, this template is the perfect starting point! </p>
       </div>
-<!--
       <div class="col-lg-8 col-lg-offset-2 text-center">
         <a href="https://github.com/jeromelachaud/freelancer-theme" class="btn btn-lg btn-outline">
           <i class="fa fa-download"></i> Download Theme
--->
         </a>
       </div>
     </div>
